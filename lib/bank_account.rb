@@ -16,7 +16,8 @@ class BankAccount
     @balance += integer 
   end 
   
-  
+  def display_balance 
+    ""
   
 
 end
