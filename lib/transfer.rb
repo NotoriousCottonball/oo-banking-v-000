@@ -14,4 +14,5 @@ class Transfer
   end 
   
   def reject_transfer
+    @status.
 end
