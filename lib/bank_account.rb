@@ -9,7 +9,7 @@ class BankAccount
   end 
   
   def valid? 
-    self.status == 
+    self.status == "open" 
   
 
 end
