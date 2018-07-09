@@ -25,6 +25,7 @@ class Transfer
       @status = "complete" 
   end 
   
-  def reverse_transaction 
+  def reverse_transfer 
+    
     
 end
