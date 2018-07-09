@@ -1,4 +1,6 @@
 class Transfer
   attr_accessor :status 
-  attr_reader :
+  attr_reader :sender, :receiver
+  
+  
 end
