@@ -12,6 +12,10 @@ class BankAccount
     self.status == "open" && self.balance > 0 
   end 
   
+  def deposit(integer) 
+    @balance += integer 
+  end 
+  
   
   
 
