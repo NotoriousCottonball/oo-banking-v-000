@@ -14,5 +14,6 @@ class Transfer
   end 
   
   def reject_transfer
-    @status.
+    @status = "rejected" 
+    
 end
