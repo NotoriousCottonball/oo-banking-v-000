@@ -24,7 +24,7 @@ class Transfer
       receiver.balance += 
       @status = "complete" 
     else 
-      
+      reject_transfer
   end 
   
   def reverse_transfer 
